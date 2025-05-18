@@ -1,0 +1,35 @@
+# Core libraries for NCBI interaction and biology-specific tasks
+biopython
+
+# For Natural Language Processing tasks (tokenization, lemmatization)
+nltk
+
+# For sentence embeddings and cross-encoder models
+sentence-transformers
+
+# Core Hugging Face library for models (LLM, tokenizers)
+transformers
+
+# Deep learning framework, essential backend for transformers and sentence-transformers
+torch
+
+# Tokenizer library often used with transformers models
+sentencepiece
+
+# Hugging Face library for easy model training and inference acceleration
+accelerate
+
+# For model quantization (e.g., 4-bit for LLM)
+bitsandbytes
+
+# For data manipulation and analysis
+pandas
+
+# For numerical operations
+numpy
+
+# For utilities like cosine_similarity
+scikit-learn
+
+# For interacting with Hugging Face Hub (downloads, login)
+huggingface_hub
